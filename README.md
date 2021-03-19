@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miminh
+- 👋 Hi, I’m Satminlen Haokip
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on React applications
