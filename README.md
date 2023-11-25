@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Satminlen Haokip
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on React applications
+- 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me satminlenh24@gmail.com
 
 <!---
